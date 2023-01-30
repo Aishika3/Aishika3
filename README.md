@@ -2,7 +2,9 @@
 - 👀 I’m a programmer,web developer and I am interested in Blockchain Technology.
 - 🌱 I’m keen to contribute to open-source contributions.
 - 💞️ I’m looking to collaborates on ...
-- 📫 How to reach me 👉aishikadas3@gmail.com🔗🔗https://aishikadas.netlify.app/
+- 📫 How to reach me 
+    🔗🔗aishikadas3@gmail.com
+    🔗🔗https://aishikadas.netlify.app/
 [![@aishika3's Holopin board](https://holopin.me/aishika3)](https://holopin.io/@aishika3)
 
 <!---
