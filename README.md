@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishika Das</h1>
 <h3 align="center">CS@IIEST Shibpur student | mentee@Winter of Blockchain_HyperEdge | OSS@mentee@Codess.cafe | passionate web developer | Blockchain Enthusiastic</h3>
 
-- 🌱 I’m currently learning **React JS , Bootstap , Flutter..**
+- 🌱 **ENTHUSIASTIC DEVELOPER**
 
 - 👨‍💻 All of my projects are available at [https://aishikadas.netlify.app/](https://aishikadas.netlify.app/)
 
