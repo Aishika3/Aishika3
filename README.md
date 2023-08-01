@@ -3,7 +3,7 @@
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
-- 👨‍💻 All of my projects are available at [https://aishikadas.netlify.app/](https://aishikadas.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://aishikadasprotfolio.netlify.app/](https://aishikadasprotfolio.netlify.app/)
 
 - 📫 How to reach me **aishikadas3@gmail.com**
 - [![@aishika3's Holopin board](https://holopin.me/aishika3)](https://holopin.io/@aishika3)
