@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishika Das</h1>
-<h3 align="center">CS@IIEST Shibpur student | mentee@Winter of Blockchain_HyperEdge | OSS@mentee@Codess.cafe | passionate web developer | Blockchain Enthusiastic</h3>
+<h3 align="center">CS@IIEST Shibpur student | mentee@Winter of Blockchain_HyperEdge'23 | OSS@mentee@Codess.cafe(cohort-2) | passionate web developer | Ml and AI Learner | Blockchain Enthusiastic</h3>
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
