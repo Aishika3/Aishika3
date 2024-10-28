@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishika Das</h1>
-<h3 align="center">CS@IIEST Shibpur student | mentee@Winter of Blockchain_HyperEdge'23 | OSS@mentee@Codess.cafe(cohort-2) | passionate web developer | Ml and AI Learner | Blockchain Enthusiastic</h3>
+<h3 align="center">CS@IIEST || Semi-Finalist@Google Girl Hackathon'23(top-2.5%) || Ex-SWE Intern@TMRW House of Brands(<b>under Bewakoof.com</b>) || 700+problems in both in GFG && Leetcode || mentee@Winter of Blockchain_HyperEdge'23 || passionate web developer | Ml and AI Learner | Blockchain Enthusiastic</h3>
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
@@ -8,7 +8,7 @@
 - 📫 How to reach me **aishikadas3@gmail.com**
 - [![@aishika3's Holopin board](https://holopin.me/aishika3)](https://holopin.io/@aishika3)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cw3m2f5vBn-b9idTTbxadAswLUdPulbX/view?usp=share_link](https://drive.google.com/file/d/1vQ6g56O1KWtmlOZiiZH924pokl6pMwgN/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vQ6g56O1KWtmlOZiiZH924pokl6pMwgN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
