@@ -3,12 +3,12 @@
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
-- 👨‍💻 All of my projects are available at [https://aishikadasprotfolio.netlify.app/](https://aishikadasprotfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Click Here](https://aishikadas-website.netlify.app/)
 
 - 📫 How to reach me **aishikadas3@gmail.com**
 - [![@aishika3's Holopin board](https://holopin.me/aishika3)](https://holopin.io/@aishika3)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cw3m2f5vBn-b9idTTbxadAswLUdPulbX/view?usp=share_link](https://drive.google.com/file/d/1Cw3m2f5vBn-b9idTTbxadAswLUdPulbX/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Cw3m2f5vBn-b9idTTbxadAswLUdPulbX/view?usp=share_link](https://drive.google.com/file/d/1vQ6g56O1KWtmlOZiiZH924pokl6pMwgN/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
