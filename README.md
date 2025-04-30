@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishika Das</h1>
-<h3 align="center">CS@IIEST || Semi-Finalist@Google Girl Hackathon'23(top-2.5%) || Ex-SWE Intern@TMRW House of Brands(<i><u>under Bewakoof.com</u></i>) || 700+problems in both in GFG && Leetcode || mentee@Winter of Blockchain_HyperEdge'23 || passionate web developer | Ml and AI Learner | Blockchain Enthusiastic</h3>
+<h3 align="center">CS@IIEST || GHCI Advancing Scholar 2024 || Semi-Finalist@Google Girl Hackathon'23 || Ex-SWE Intern@TMRW House of Brands(<i><u>under Bewakoof.com</u></i>) || passionate web developer | Ml and AI Learner | Blockchain Enthusiastic</h3>
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
