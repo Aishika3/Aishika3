@@ -8,7 +8,8 @@
 - 📫 How to reach me **aishikadas3@gmail.com**
 - [![@aishika3's Holopin board](https://holopin.me/aishika3)](https://holopin.io/@aishika3)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vQ6g56O1KWtmlOZiiZH924pokl6pMwgN/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tzlAepwWKBqSH2b64wz0rXZaiWx0hllx/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
