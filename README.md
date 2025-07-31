@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishika Das</h1>
-<h3 align="center">CS@IIEST || GHCI Advancing Scholar 2024 || Semi-Finalist@Google Girl Hackathon'23 || Ex-SWE Intern@TMRW House of Brands(<i><u>under Bewakoof.com</u></i>) || passionate web developer | Ml and AI Learner | Blockchain Enthusiastic</h3>
+<h3 align="center"> Ex-SWE Intern@Bewakoof.com, TCG Crest || GHCI'24 Scholar || Semi-Finalist@Google Girl Hackathon'23 || Expert (max rating 1732) @Codeforces || 5 * @ CodeChef(max rating 2131 in div1) </h3>
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
