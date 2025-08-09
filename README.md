@@ -3,13 +3,14 @@
 
 - 🌱 **ENTHUSIASTIC DEVELOPER**
 
+---
 - 👨‍💻 All of my projects are available at [Click Here](https://aishikadas-website.netlify.app/)
-
+---
 - 📫 How to reach me **aishikadas3@gmail.com**
-- [![@aishika3's Holopin board](https://holopin.me/aishika3)](https://holopin.io/@aishika3)
-
+---
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fj_fkoFYATi3K18pSGBTMEKKrmN0Q_xz/view?usp=drive_link)
 
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +55,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></a>
 </p>
 
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishika3&show_icons=true&locale=en&layout=compact" alt="aishika3" /></p>
 
